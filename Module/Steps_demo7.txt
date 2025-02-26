@@ -1,0 +1,7 @@
+Change bucket name in main
+bucket_name = "<yourname>-bucket-<date>"
+ 
+init
+validate
+plan
+apply
